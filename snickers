@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T11:48:52.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="lCmpIJcmrWoZ80e50iTD" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-12T11:53:17.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="KJKTZF2HbpNpU34gU4kR" version="20.8.15" type="github">
   <diagram name="Page-1" id="HIidNPQ5r28f7UaIXPJj">
     <mxGraphModel dx="1400" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,18 +34,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EN5m4RUUJkSIv9ZT_qlg-10" value="Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EN5m4RUUJkSIv9ZT_qlg-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EN5m4RUUJkSIv9ZT_qlg-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="430" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="EN5m4RUUJkSIv9ZT_qlg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EN5m4RUUJkSIv9ZT_qlg-12" target="EN5m4RUUJkSIv9ZT_qlg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN5m4RUUJkSIv9ZT_qlg-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EN5m4RUUJkSIv9ZT_qlg-12" target="EN5m4RUUJkSIv9ZT_qlg-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN5m4RUUJkSIv9ZT_qlg-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EN5m4RUUJkSIv9ZT_qlg-12" target="EN5m4RUUJkSIv9ZT_qlg-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EN5m4RUUJkSIv9ZT_qlg-12" value="Job opening" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EN5m4RUUJkSIv9ZT_qlg-18" value="Already Applied refferal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="425" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EN5m4RUUJkSIv9ZT_qlg-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EN5m4RUUJkSIv9ZT_qlg-19" target="EN5m4RUUJkSIv9ZT_qlg-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN5m4RUUJkSIv9ZT_qlg-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EN5m4RUUJkSIv9ZT_qlg-19" target="EN5m4RUUJkSIv9ZT_qlg-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN5m4RUUJkSIv9ZT_qlg-19" value="Job Description" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EN5m4RUUJkSIv9ZT_qlg-22" value="Profile Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EN5m4RUUJkSIv9ZT_qlg-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EN5m4RUUJkSIv9ZT_qlg-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
