@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T22:22:59.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="LTefIW1nI_I5K_KLBOF8" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T22:27:56.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="e79MIq5IruuuT-f9HDJT" version="20.8.20" type="github">
   <diagram name="Page-1" id="HIidNPQ5r28f7UaIXPJj">
-    <mxGraphModel dx="1955" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="1669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,7 +33,7 @@
         <mxCell id="EN5m4RUUJkSIv9ZT_qlg-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EN5m4RUUJkSIv9ZT_qlg-10" target="EN5m4RUUJkSIv9ZT_qlg-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EN5m4RUUJkSIv9ZT_qlg-10" value="Login" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="EN5m4RUUJkSIv9ZT_qlg-10" value="Login as user" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-90" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EN5m4RUUJkSIv9ZT_qlg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EN5m4RUUJkSIv9ZT_qlg-12" target="EN5m4RUUJkSIv9ZT_qlg-19" edge="1">
@@ -104,6 +104,27 @@
         </mxCell>
         <mxCell id="MXQLWb5-qPRs_oE0L41C-8" value="Listing based on ML algorithms to show him the best suitated employee for that&amp;nbsp; particular job" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="450" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MXQLWb5-qPRs_oE0L41C-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MXQLWb5-qPRs_oE0L41C-12" target="MXQLWb5-qPRs_oE0L41C-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MXQLWb5-qPRs_oE0L41C-12" value="Login as company" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MXQLWb5-qPRs_oE0L41C-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="MXQLWb5-qPRs_oE0L41C-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="90" as="sourcePoint" />
+            <mxPoint x="180" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MXQLWb5-qPRs_oE0L41C-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MXQLWb5-qPRs_oE0L41C-16" target="MXQLWb5-qPRs_oE0L41C-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MXQLWb5-qPRs_oE0L41C-16" value="Job posted" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MXQLWb5-qPRs_oE0L41C-18" value="Create a Job" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
